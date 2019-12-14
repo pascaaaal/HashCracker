@@ -18,4 +18,4 @@ When you type 1 you can choose between the hash types.
 * sha512
 <br />
 When you want so crack, you can choose between your own password list and the online dataset: https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt
-Heres a <a href="">asciinema</a> example.
+Heres a <a href="https://asciinema.org/a/jsuNmtDR0A1XOGfskDcIKN5dq">asciinema</a> example.
