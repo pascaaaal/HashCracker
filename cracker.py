@@ -1,10 +1,10 @@
+#!/usr/bin/python
 import hashlib
 import colorama
 from colorama import Fore, Style, init
 import http.client
 import _thread
 import sys
-import time
 
 found = False
 guesses = 0
